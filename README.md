@@ -1,6 +1,7 @@
 # Hi there, I'm Sachin 
 
-<img align="right" alt="Machine Learning GIF" height="160px" src="https://tenor.com/view/machine-learning-golf-learning-adaptive-optimizers-gradient-descent-gif-10403618698166797672" />
+<img align="right" alt="Machine Learning GIF" height="160px" src="https://media.tenor.com/10403618698166797672.gif" />
+
 
 
 ## Master’s Student in Business Analytics & AI | Passionate About Data Science & ML
