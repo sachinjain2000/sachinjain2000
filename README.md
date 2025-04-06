@@ -8,6 +8,6 @@
 
 - 👨‍💻 I’m learning more about Deep Learning and exploring AI.
 - 💪🏼 Current goals: build interesting projects and contribute to open source projects.
-- ⚡ Fun fact: I geek out on psychology, philosophy, and bodybuilding.
+- ⚡ Fun fact: I geek out on psychology, philosophy, and AI.
 
 
