@@ -6,9 +6,11 @@
 
 ## Master’s Student in Business Analytics & AI | Passionate About Data Science & ML
 
-- 👨‍💻 I’m learning more about Deep Learning and exploring AI.
-- 💪🏼 Current goals: build interesting projects and contribute to open source projects.
-- ⚡ Fun fact: I geek out on psychology, philosophy, and AI.
+- 👨‍💻 Aiming to build projects that solve real world problems. Have something interesting in mind? I’d love to connect and discuss.  
+- 💪🏼 Exploring practical ways AI can improve everyday business workflows and boost productivity.  
+- ⚡ Currently looking for full-time or contract opportunities, open to relocating anywhere in the US, and ready to start contributing immediately.  
+- 📚 Getting into open source, learning how it works and where I can add value.  
+- 🧠 Curious about everything, but focused on what brings value.
 
 
 ![](https://komarev.com/ghpvc/?username=sachinjain2000)
