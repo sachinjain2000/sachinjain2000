@@ -11,3 +11,4 @@
 - ⚡ Fun fact: I geek out on psychology, philosophy, and AI.
 
 
+![](https://komarev.com/ghpvc/?username=sachinjain2000&base=1000)
