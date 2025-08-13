@@ -10,7 +10,7 @@
 - 💪🏼 Exploring practical ways AI can improve everyday business workflows and boost productivity.  
 - ⚡ Currently looking for full-time or contract opportunities, open to relocating anywhere in the US, and ready to start contributing immediately.  
 - 📚 Getting into open source, learning how it works and where I can add value.  
-- 🧠 Curious about everything, but focused on what brings value.
+
 
 
 ![](https://komarev.com/ghpvc/?username=sachinjain2000)
