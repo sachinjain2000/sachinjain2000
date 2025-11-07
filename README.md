@@ -38,7 +38,7 @@ I believe the best AI solutions are the ones that create tangible value. Whether
   
   <img src="https://github-readme-stats.vercel.app/api?username=sachinjain2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjain2000&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=sachinjain2000&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="170"/>
 
 </div>
 
@@ -46,7 +46,7 @@ I believe the best AI solutions are the ones that create tangible value. Whether
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinjain2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170"/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinjain2000&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" height="170"/>
+
 
 </div>
 
