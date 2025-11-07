@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a graduate student at **University of Texas at Dallas** specializing in Business Analytics and AI, currently based in **San Francisco, CA**. My work sits at the intersection of data science, machine learning, and practical business applications—I believe the best AI solutions are the ones that actually solve real problems.
+I'm a graduate student at **University of Texas at Dallas** specializing in Business Analytics and AI, currently based in **San Francisco, CA**. My work focuses on building data-driven solutions that solve real business problems—from predictive models for credit risk to real-time analytics pipelines for e-commerce.
 
-Whether it's building predictive models for credit risk, analyzing job market trends, or creating real-time analytics pipelines, I focus on projects that have tangible impact. I'm actively exploring how AI can streamline business workflows and boost productivity in meaningful ways.
+I believe the best AI solutions are the ones that create tangible value. Whether it's analyzing 20,000+ job postings to uncover hiring trends or building hybrid analytics systems that combine streaming data with machine learning, I focus on projects with measurable impact.
 
 **Currently seeking full-time or contract opportunities** across the US—ready to relocate and contribute from day one.
 
@@ -24,47 +24,11 @@ Whether it's building predictive models for credit risk, analyzing job market tr
 
 ## 🚀 What I'm Working On
 
-- 🔨 Building data-driven applications that bridge analytics and user experience
+- 🔨 Building end-to-end ML pipelines from data collection to production deployment
 - 🤖 Exploring practical AI implementations for business process optimization  
-- 📊 Developing end-to-end ML pipelines from data collection to deployment
+- 📊 Developing analytics solutions that combine real-time processing with predictive modeling
 - 🌱 Contributing to open source and learning from the developer community
 - 💡 Always open to collaborating on interesting projects—reach out if you have something in mind!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Big Data & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
 
 ---
 
@@ -80,7 +44,7 @@ Whether it's building predictive models for credit risk, analyzing job market tr
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinjain2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinjain2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170"/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinjain2000&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" height="170"/>
 
@@ -104,8 +68,8 @@ Whether it's building predictive models for credit risk, analyzing job market tr
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinjain2000&repo=Credit-Risk-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
 </a>
 
-<a href="https://github.com/sachinjain2000/collab-done-right">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinjain2000&repo=collab-done-right&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+<a href="https://github.com/sachinjain2000/yc-ai-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachinjain2000&repo=yc-ai-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -120,23 +84,15 @@ Whether it's building predictive models for credit risk, analyzing job market tr
   
 </div>
 
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachinjain2000&theme=tokyonight&utcOffset=8" alt="Productive Time" width="48%"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachinjain2000&theme=tokyonight" alt="Repos per Language" width="48%"/>
-
-</div>
-
 ---
 
 ## 🎯 Key Highlights
 
-- 📊 **20,000+ LinkedIn job postings** analyzed to uncover application drivers using statistical modeling
-- 🏦 **Credit risk models** with 90%+ accuracy using XGBoost and Neural Networks
-- 🛒 **Real-time + batch analytics** pipeline combining Kafka, Flink, and ML for e-commerce insights
-- 🔐 **Differential privacy** implementation for protecting sensitive user data in ML models
-- 📈 **End-to-end ML pipelines** from data generation to model deployment and visualization
+- 📊 Analyzed **20,000+ LinkedIn job postings** to identify key drivers of application volume using statistical modeling
+- 🏦 Built **credit risk models** achieving 90%+ accuracy with XGBoost and Neural Networks
+- 🛒 Designed **real-time + batch analytics pipeline** combining Kafka, Flink, and ML for e-commerce insights
+- 🔐 Implemented **differential privacy** techniques to protect sensitive user data in ML models
+- 📈 Developed **end-to-end ML systems** from data generation to model deployment and visualization
 
 ---
 
